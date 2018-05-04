@@ -2,7 +2,7 @@
 import java.sql._
 //import java.util._
 import java.text._ //{Connection,DriverManager}
-object  ScalaJdbcAccess extends App {
+object ScalaJdbcAccess extends App {
 
   val url = "jdbc:oracle:thin:@snv8903:1521:vens1123"
   val driver = "oracle.jdbc.driver.OracleDriver"

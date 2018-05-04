@@ -3,7 +3,7 @@ import scala.io.{Source}
 //import java.io.{FileNotFoundException, IOException}
 import java.io._
 
-object FileOperations {
+object  FileOperations {
   def main(args: Array[String]): Unit = {
     var filename = args(0)
     try {
