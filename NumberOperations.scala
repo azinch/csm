@@ -1,6 +1,6 @@
 //import scala.util.{Random} 
 
-object MathUtils {
+object  MathUtils {
   def ~= (v1:Double, v2:Double, p:Double=0.0000001) = {
     if((v1 - v2).abs < p) true else false
   }
