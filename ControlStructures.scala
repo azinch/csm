@@ -1,4 +1,4 @@
-object  ControlStructures {
+object ControlStructures {
   def main(args: Array[String]): Unit = {
     /*--------------------------*/
     /* Looping with for/foreach */
