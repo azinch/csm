@@ -1,4 +1,3 @@
-
 object StringOperations {
   case class MyClass1(name:String,age:Int,weight:Double) {
       override def toString = name+"/"+age.toString+"/"+weight.toString

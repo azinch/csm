@@ -1,5 +1,3 @@
-
-
 object ControlStructures {
   def main(args: Array[String]): Unit = {
     /*--------------------------*/
